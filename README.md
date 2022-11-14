@@ -1,0 +1,2 @@
+# change_map_resolution
+地図の解像度を変更するためのリポジトリ
